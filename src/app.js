@@ -1,1 +1,1 @@
-alert('hello world');
+document.getElementById('container').innerText = 'hello world';
